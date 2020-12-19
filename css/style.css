@@ -14,3 +14,17 @@ h1 {
     height: 67%;
     width: 67%;
 }
+
+.contact {
+    padding-left: 0px;
+}
+
+.container-image {
+    background-color: white;
+    position: absolute;
+    left: 50px;
+    margin-top: 50px;
+    height: 1225px;
+    width: 55%;
+    padding: 10px;
+}
